@@ -1,0 +1,13 @@
+{
+  "banks": [
+    {
+      "id": "vcb",
+      "name": "Vietcombank",
+      "code": "VCB",
+      "accountNumber": "SỐ TÀI KHOẢN MỚI",
+      "accountName": "TÊN CHỦ TK MỚI",
+      "qrCodeUrl": "https://api.vietqr.io/image/VCB-SỐ_MỚI-ten.jpg",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "theory": {
+    "concept": "Tập hợp là một nhóm các đối tượng có cùng tính chất...",
+    "recognition": [
+      "Tập hợp được ký hiệu bằng chữ cái in hoa",
+      "Phần tử thuộc tập hợp ký hiệu ∈",
+      "Phần tử không thuộc tập hợp ký hiệu ∉"
+    ]
+  },
+  "keyPoints": [
+    "Mỗi phần tử chỉ xuất hiện một lần",
+    "Thứ tự các phần tử không quan trọng"
+  ],
+  "formula": "A = {x ∈ N | x < 5}",
+  "properties": [
+    "Tập hợp rỗng là tập hợp không có phần tử nào",
+    "Tập hợp con: A ⊂ B nếu mọi phần tử của A đều thuộc B"
+  ],
+  "examples": [
+    {
+      "question": "Viết tập hợp các số tự nhiên nhỏ hơn 5",
+      "solution": "A = {0; 1; 2; 3; 4}"
+    }
+  ],
+  "recognitionExercises": [
+    {
+      "question": "5 có thuộc tập hợp {1,2,3,4,5} không?",
+      "answer": "Có",
+      "explanation": "5 là phần tử của tập hợp"
+    }
+  ],
+  "applicationExercises": [
+    {
+      "question": "Viết tập hợp các số tự nhiên có 2 chữ số mà tổng các chữ số bằng 8",
+      "answer": "{17,26,35,44,53,62,71,80}",
+      "explanation": "Các số có dạng ab với a+b=8"
+    }
+  ],
+  "practicalGuide": [
+    {
+      "title": "Ứng dụng trong đời sống",
+      "content": "Tập hợp được dùng để phân loại đồ vật, học sinh trong lớp...",
+      "tip": "Hãy thử phân loại đồ dùng học tập của em thành các tập hợp"
+    }
+  ]
+}
